@@ -19,8 +19,8 @@ function App() {
       case "userCard":
         return (
           <UserCard
-            name="Vinayak dev Mishra"
-            email="vinayakdevmishra2022@vitbhopal.ac.in"
+            name="Tanmay Verma"
+            email="tanmayverma2022@vitbhopal.ac.in"
           />
         );
       case "customButton":
