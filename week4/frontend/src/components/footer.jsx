@@ -27,11 +27,7 @@ export default function Footer() {
           </button>
         </a>
 
-        <a
-          href="https://www.instagram.com/vinayak_xo_"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+
           <button className="w-10 h-10 inline justify-items-center flex m-2 mt-5 items-center justify-center rounded-lg bg-white shadow-md group transition-all duration-300">
             <svg
               className="transition-all duration-300 group-hover:scale-110 cursor-pointer"
@@ -78,7 +74,7 @@ export default function Footer() {
         </a>
         
         <a
-          href="https://www.linkedin.com/in/vinayak-dev-mishra-367b56251/"
+          href="https://www.linkedin.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
