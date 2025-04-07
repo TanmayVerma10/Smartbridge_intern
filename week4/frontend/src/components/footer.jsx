@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-800 text-white flex justify-between text-center pl-4 mt-8 h-25">
       <div className="inline">
-        <p className="pt-5">&copy; VinCart</p>
+        <p className="pt-5">&copy; tanCart</p>
       </div>
       <div className="bg-transparent h-auto mt-0 pt-0 w-60 inline py-8 flex justify-center items-center gap-4 flex-wrap">
         <a
