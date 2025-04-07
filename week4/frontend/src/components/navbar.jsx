@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="sticky top-0 z-50 bg-gray-800 p-4">
       <div className="flex justify-between items-center">
-        <h1 className="text-white text-3xl font-bold">VinCart</h1>
+        <h1 className="text-white text-3xl font-bold">tanCart</h1>
         <ul className="md:flex">
           <li className="text-white p-2 mr-6 cursor-pointer">
             <a href="">Home</a>
