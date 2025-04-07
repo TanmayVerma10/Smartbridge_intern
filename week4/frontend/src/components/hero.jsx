@@ -3,7 +3,7 @@ export default function Hero() {
     <div className="bg-gradient-to-r from-blue-700 to-blue-500 text-white text-center py-24 px-6">
       <h1 className="text-5xl font-extrabold">
         Welcome to{" "}
-        <span className="text-orange-300 drop-shadow-md">VinCart</span>
+        <span className="text-orange-300 drop-shadow-md">tanCart</span>
       </h1>
       <p className="mt-4 text-lg opacity-90">
         Discover the best products at amazing prices!
